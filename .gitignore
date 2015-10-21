@@ -21,6 +21,7 @@ use-cases/[a-z]*/*/test.py
 use-cases/*/*/*.orig
 use-cases/*/*/*.rej
 
-# Cloned wikis:
+# Cloned repositories:
+/repos/
 /wikis/
 
